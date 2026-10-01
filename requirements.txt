@@ -1,0 +1,11 @@
+tensorflow
+keras
+shap
+numpy
+matplotlib
+opencv-python
+torch
+torchvision
+pytorch-lightning
+scikit-learn
+tqdm
